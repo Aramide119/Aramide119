@@ -1,16 +1,18 @@
-## Hi there 👋
+Hello, I'm Kudirat! 👋
+I’m a dedicated PHP/Laravel Developer with a strong focus on crafting robust and maintainable web applications. My approach is centered around writing clean, efficient code while continually expanding my knowledge of new technologies and best practices.
 
-<!--
-**Aramide119/Aramide119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ My Skill Set:
+Programming Languages: PHP, JavaScript, HTML, CSS
+Frameworks: Laravel
+Database Management: MySQL, phpMyAdmin
+Version Control: Git, GitHub
+Dev Tools: Composer, Tinker, Laravel Artisan
+🌱 Currently Exploring:
+Diving deeper into Laravel and advanced PHP techniques.
+Enhancing my understanding of cloud computing and DevOps.
+Contributing to community-driven projects and open-source initiatives.
+📬 Let's Connect:
+Email: folawale119@gmail.com
+LinkedIn: Olawale Kudirat
+🎉 A Little Extra:
+When I'm not developing, I enjoy music as a way to unwind and recharge.
