@@ -10,7 +10,6 @@ I’m a dedicated **PHP/Laravel Developer** with a strong focus on crafting robu
 
 ### 🌱 Currently Exploring:
 - Diving deeper into Laravel and advanced PHP techniques.
-- Enhancing my understanding of cloud computing and DevOps.
 - Contributing to community-driven projects and open-source initiatives.
 
 ### 📬 Let's Connect:
